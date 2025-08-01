@@ -1,10 +1,9 @@
-# GitHub User Search App
+# ALX ReactJS Project
 
-This is a simple React application that allows you to search for GitHub users and display their profile information using the GitHub API.
+This repository contains my first React App created using Vite as part of the ALX Frontend ReactJS curriculum.
 
-## Getting Started
-
-1. Clone the repository:
+## Installation
 
 ```bash
-git clone https://github.com/kibetdavis/github-user-search.git
+npm install
+npm run dev

@@ -1,13 +1,14 @@
-import React from 'react';
-import Search from './components/Search';
+import AddRecipeForm from './components/AddRecipeForm';
+import RecipeList from './components/RecipeList';
 
-const App = () => {
+function App() {
   return (
     <div>
-      <h1>GitHub User Search</h1>
-      <Search />
+      <h1>Recipe Sharing App</h1>
+      <AddRecipeForm />
+      <RecipeList />
     </div>
   );
-};
+}
 
 export default App;
