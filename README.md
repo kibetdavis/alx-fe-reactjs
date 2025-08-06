@@ -1,48 +1,16 @@
-# ALX Front-End React Projects
+# Tailwind React Front-End Project
 
-This repository contains my ReactJS projects as part of the ALX Front-End curriculum. Each project demonstrates various React concepts such as component architecture, styling, state management, routing, and integration with APIs.
+This is a React-based front-end application styled using **Tailwind CSS**. The project demonstrates how to set up and use Tailwind CSS in a modern React app created with **Vite**.
 
-## Projects
+## 🚀 Project Setup
 
-### 1. GitHub User Search
+This app was bootstrapped with [Vite](https://vitejs.dev/) and integrates Tailwind CSS for utility-first styling.
 
-A React application that allows users to search for GitHub profiles using the GitHub API.
+### 📦 Installation
 
-### 2. Recipe Sharing App
-
-A simple recipe management app using React and Zustand for state management.
-
-### 3. Travel Planner (Capstone)
-
-A front-end travel planning application that allows users to explore destinations, save travel ideas, and plan their trips.
-
-### 4. My Company Website
-
-A four-page React website for a fictional company, showcasing routing, contact form handling, and page styling.
-
-## Technologies Used
-
-- React JS
-- React Router
-- Zustand
-- Axios
-- Tailwind CSS
-- JavaScript (ES6+)
-- HTML & CSS
-- Vite
-
-## Setup Instructions
+1. Clone the repository:
 
 ```bash
-# Clone the repository
-git clone https://github.com/kibetdavis/alx-fe-reactjs.git
-
-# Navigate into a project folder
-cd alx-fe-reactjs/my-company
-
-# Install dependencies
-npm install
-
-# Run the project
-npm run dev
+git clone https://github.com/your-username/tailwind-react-fe.git
+cd tailwind-react-fe
 ```
